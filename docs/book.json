@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "-sharing",
+    "github",
+    "anchors",
+    "splitter",
+    "expandable-chapters",
+    "mind-maps"
+  ],
+
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/enviconnect/getting-started-gitbook"
+    }
+  }
+}
