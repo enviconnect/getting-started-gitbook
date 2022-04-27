@@ -4,7 +4,8 @@
     "github",
     "anchors",
     "splitter",
-    "expandable-chapters"
+    "expandable-chapters",
+    "mind-maps"
   ],
 
   "pluginsConfig": {
