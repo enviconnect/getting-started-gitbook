@@ -9,7 +9,7 @@
 
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/tuliren/publish-gitbook"
+      "url": "https://github.com/enviconnect/getting-started-gitbook"
     }
   }
 }
