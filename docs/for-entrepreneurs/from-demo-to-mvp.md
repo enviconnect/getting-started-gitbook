@@ -1,2 +1,0 @@
-# From Demo to MVP
-

@@ -1,2 +1,0 @@
-# Beware of the gatekeepers
-
